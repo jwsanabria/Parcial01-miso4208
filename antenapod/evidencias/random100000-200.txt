@@ -1,0 +1,1174 @@
+  bash arg: -p
+  bash arg: de.danoeh.antennapod
+  bash arg: -v
+  bash arg: 100000
+  bash arg: -s
+  bash arg: 200
+:Monkey: seed=1537860992092 count=100000
+:AllowPackage: de.danoeh.antennapod
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(579.0,1659.0)
+:Sending Touch (ACTION_UP): 0:(581.6329,1667.3038)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    // activityResuming(de.danoeh.antennapod)
+:Sending Touch (ACTION_DOWN): 0:(551.0,239.0)
+:Sending Touch (ACTION_UP): 0:(554.72424,239.08185)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(813.0,2208.0)
+:Sending Touch (ACTION_UP): 0:(816.568,2223.4788)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.AudioplayerActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(717.0,37.0)
+:Sending Touch (ACTION_UP): 0:(706.74725,40.051533)
+:Sending Touch (ACTION_DOWN): 0:(95.0,1477.0)
+:Sending Touch (ACTION_UP): 0:(35.994278,1491.7354)
+:Sending Touch (ACTION_DOWN): 0:(398.0,1476.0)
+:Sending Touch (ACTION_UP): 0:(395.57056,1475.9087)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(1073.0,360.0)
+:Sending Touch (ACTION_UP): 0:(1068.3184,364.1444)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+    // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+    //[calendar_time:2018-09-25 03:49:13.431  system_uptime:919845]
+    // Sending event #100
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    // activityResuming(de.danoeh.antennapod)
+    // Rejecting start of Intent { act=android.speech.action.WEB_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(944.0,715.0)
+:Sending Touch (ACTION_UP): 0:(954.2799,712.18427)
+:Sending Touch (ACTION_DOWN): 0:(632.0,1496.0)
+:Sending Touch (ACTION_UP): 0:(635.431,1506.4742)
+:Sending Touch (ACTION_DOWN): 0:(769.0,833.0)
+:Sending Touch (ACTION_UP): 0:(786.0041,812.7895)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1084.0,1282.0)
+:Sending Touch (ACTION_UP): 0:(1077.5271,1285.975)
+:Sending Touch (ACTION_DOWN): 0:(1150.0,1192.0)
+:Sending Touch (ACTION_UP): 0:(1162.3849,1188.6743)
+:Sending Touch (ACTION_DOWN): 0:(534.0,1472.0)
+:Sending Touch (ACTION_UP): 0:(537.87384,1469.7236)
+:Sending Touch (ACTION_DOWN): 0:(774.0,120.0)
+:Sending Touch (ACTION_UP): 0:(772.79285,126.86534)
+:Sending Touch (ACTION_DOWN): 0:(77.0,1167.0)
+:Sending Touch (ACTION_UP): 0:(78.99344,1162.7512)
+:Sending Touch (ACTION_DOWN): 0:(888.0,1498.0)
+:Sending Touch (ACTION_UP): 0:(889.35266,1489.6931)
+:Sending Touch (ACTION_DOWN): 0:(1088.0,785.0)
+:Sending Touch (ACTION_UP): 0:(1083.4564,776.9002)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1033.0,2049.0)
+:Sending Touch (ACTION_UP): 0:(987.9609,2015.5016)
+:Sending Touch (ACTION_DOWN): 0:(1252.0,1460.0)
+:Sending Touch (ACTION_UP): 0:(1261.2487,1445.2037)
+:Sending Touch (ACTION_DOWN): 0:(1111.0,932.0)
+:Sending Touch (ACTION_UP): 0:(1041.8629,855.97485)
+:Sending Touch (ACTION_DOWN): 0:(238.0,1025.0)
+:Sending Touch (ACTION_UP): 0:(247.01794,1027.0901)
+    //[calendar_time:2018-09-25 03:49:15.083  system_uptime:921496]
+    // Sending event #200
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(1020.0,1123.0)
+:Sending Touch (ACTION_UP): 0:(1021.5176,1129.7794)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(35.0,805.0)
+:Sending Touch (ACTION_UP): 0:(29.482018,766.59955)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.apps.maps/com.google.android.maps.MapsActivity } in package com.google.android.apps.maps
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.apps.maps/com.google.android.maps.MapsActivity } in package com.google.android.apps.maps
+:Sending Touch (ACTION_DOWN): 0:(593.0,220.0)
+:Sending Touch (ACTION_UP): 0:(590.6083,219.99594)
+:Sending Touch (ACTION_DOWN): 0:(492.0,267.0)
+:Sending Touch (ACTION_UP): 0:(490.88956,261.99612)
+:Sending Touch (ACTION_DOWN): 0:(914.0,1658.0)
+:Sending Touch (ACTION_UP): 0:(918.2646,1658.5201)
+:Sending Touch (ACTION_DOWN): 0:(556.0,603.0)
+    //[calendar_time:2018-09-25 03:49:17.275  system_uptime:923690]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(586.1567,575.9487)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(547.0,1796.0)
+:Sending Touch (ACTION_UP): 0:(539.0901,1795.3774)
+:Sending Touch (ACTION_DOWN): 0:(1081.0,501.0)
+:Sending Touch (ACTION_UP): 0:(1041.7021,534.81024)
+:Sending Touch (ACTION_DOWN): 0:(453.0,2205.0)
+:Sending Touch (ACTION_UP): 0:(452.14725,2192.5073)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.apps.messaging/.ui.ConversationListActivity } in package com.google.android.apps.messaging
+:Sending Touch (ACTION_DOWN): 0:(1364.0,216.0)
+:Sending Touch (ACTION_UP): 0:(1369.9247,238.3375)
+:Sending Touch (ACTION_DOWN): 0:(882.0,226.0)
+:Sending Touch (ACTION_UP): 0:(866.4537,210.85002)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(855.0,1135.0)
+:Sending Touch (ACTION_UP): 0:(836.93036,1128.0054)
+:Sending Touch (ACTION_DOWN): 0:(56.0,470.0)
+:Sending Touch (ACTION_UP): 0:(50.630775,476.67447)
+:Sending Touch (ACTION_DOWN): 0:(122.0,1886.0)
+:Sending Touch (ACTION_UP): 0:(120.67263,1885.1017)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.apps.maps/com.google.android.maps.MapsActivity } in package com.google.android.apps.maps
+:Sending Touch (ACTION_DOWN): 0:(936.0,1055.0)
+:Sending Touch (ACTION_UP): 0:(938.6204,1056.9595)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+    //[calendar_time:2018-09-25 03:49:19.363  system_uptime:925777]
+    // Sending event #400
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(426.0,529.0)
+:Sending Touch (ACTION_UP): 0:(426.1173,516.9961)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(980.0,1138.0)
+:Sending Touch (ACTION_UP): 0:(980.4441,1133.1685)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    // activityResuming(de.danoeh.antennapod)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(876.0,2203.0)
+:Sending Touch (ACTION_UP): 0:(874.1898,2203.1497)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.AudioplayerActivity } in package de.danoeh.antennapod
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+    //[calendar_time:2018-09-25 03:49:21.314  system_uptime:927728]
+    // Sending event #500
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1399.0,42.0)
+:Sending Touch (ACTION_UP): 0:(1385.3127,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(229.0,925.0)
+:Sending Touch (ACTION_UP): 0:(237.18599,927.38477)
+:Sending Touch (ACTION_DOWN): 0:(1062.0,155.0)
+:Sending Touch (ACTION_UP): 0:(1059.2908,162.69324)
+:Sending Touch (ACTION_DOWN): 0:(72.0,1780.0)
+:Sending Touch (ACTION_UP): 0:(69.82657,1770.4208)
+:Sending Touch (ACTION_DOWN): 0:(575.0,1868.0)
+:Sending Touch (ACTION_UP): 0:(587.68506,1854.9653)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(824.0,1517.0)
+:Sending Touch (ACTION_UP): 0:(834.3085,1539.8845)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1383.0,2129.0)
+:Sending Touch (ACTION_UP): 0:(1390.5192,2125.0125)
+:Sending Touch (ACTION_DOWN): 0:(259.0,526.0)
+    //[calendar_time:2018-09-25 03:49:22.209  system_uptime:928622]
+    // Sending event #600
+:Sending Touch (ACTION_UP): 0:(263.9873,556.7417)
+:Sending Touch (ACTION_DOWN): 0:(1255.0,2081.0)
+:Sending Touch (ACTION_UP): 0:(1257.2153,2085.0078)
+:Sending Touch (ACTION_DOWN): 0:(931.0,685.0)
+:Sending Touch (ACTION_UP): 0:(918.95526,665.91534)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(659.0,1386.0)
+:Sending Touch (ACTION_UP): 0:(684.5903,1343.2484)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(78.0,136.0)
+:Sending Touch (ACTION_UP): 0:(92.54529,154.0739)
+:Sending Touch (ACTION_DOWN): 0:(738.0,1202.0)
+:Sending Touch (ACTION_UP): 0:(725.8087,1204.9012)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+    //[calendar_time:2018-09-25 03:49:23.582  system_uptime:929996]
+    // Sending event #700
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(635.0,230.0)
+:Sending Touch (ACTION_UP): 0:(757.41034,255.9212)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(611.0,1747.0)
+:Sending Touch (ACTION_UP): 0:(594.2723,1691.0236)
+:Sending Touch (ACTION_DOWN): 0:(641.0,1620.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.AudioplayerActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_UP): 0:(666.33954,1681.9084)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+:Sending Flip keyboardOpen=true
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    // activityResuming(de.danoeh.antennapod)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.AudioplayerActivity } in package de.danoeh.antennapod
+    //[calendar_time:2018-09-25 03:49:25.125  system_uptime:931539]
+    // Sending event #800
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(382.0,1921.0)
+:Sending Touch (ACTION_UP): 0:(378.8241,1926.6952)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1275.0,612.0)
+:Sending Touch (ACTION_UP): 0:(1270.4031,597.75964)
+:Sending Touch (ACTION_DOWN): 0:(1021.0,286.0)
+:Sending Touch (ACTION_UP): 0:(997.44995,278.03452)
+:Sending Touch (ACTION_DOWN): 0:(1435.0,869.0)
+:Sending Touch (ACTION_UP): 0:(1440.0,997.66125)
+:Sending Touch (ACTION_DOWN): 0:(468.0,1379.0)
+:Sending Touch (ACTION_UP): 0:(457.40936,1370.678)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(176.0,1843.0)
+:Sending Touch (ACTION_UP): 0:(161.76799,1849.8003)
+:Sending Touch (ACTION_DOWN): 0:(757.0,2083.0)
+:Sending Touch (ACTION_UP): 0:(752.26074,2096.676)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(1108.0,406.0)
+:Sending Touch (ACTION_UP): 0:(1020.7796,297.60544)
+:Sending Touch (ACTION_DOWN): 0:(618.0,2116.0)
+    //[calendar_time:2018-09-25 03:49:26.389  system_uptime:932802]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(655.57654,2156.1501)
+:Sending Touch (ACTION_DOWN): 0:(517.0,1768.0)
+:Sending Touch (ACTION_UP): 0:(545.9896,1779.4346)
+:Sending Touch (ACTION_DOWN): 0:(151.0,80.0)
+:Sending Touch (ACTION_UP): 0:(159.41083,79.2068)
+:Sending Touch (ACTION_DOWN): 0:(1427.0,45.0)
+:Sending Touch (ACTION_UP): 0:(1424.7483,43.81746)
+:Sending Touch (ACTION_DOWN): 0:(1221.0,1204.0)
+:Sending Touch (ACTION_UP): 0:(1222.2954,1205.7222)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(860.0,1449.0)
+:Sending Touch (ACTION_UP): 0:(876.0044,1442.1641)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(7.0,743.0)
+:Sending Touch (ACTION_UP): 0:(5.798804,735.84393)
+:Sending Touch (ACTION_DOWN): 0:(394.0,940.0)
+:Sending Touch (ACTION_UP): 0:(392.97256,939.96533)
+    // Rejecting start of Intent { cmp=com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.opa.OpaActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(37.0,206.0)
+:Sending Touch (ACTION_UP): 0:(21.2411,205.69244)
+:Sending Touch (ACTION_DOWN): 0:(125.0,842.0)
+:Sending Touch (ACTION_UP): 0:(130.41435,846.6134)
+:Sending Touch (ACTION_DOWN): 0:(340.0,956.0)
+:Sending Touch (ACTION_UP): 0:(331.5549,947.79596)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(306.0,1278.0)
+    //[calendar_time:2018-09-25 03:49:28.119  system_uptime:934532]
+    // Sending event #1000
+:Sending Touch (ACTION_UP): 0:(326.25916,1145.2004)
+:Sending Touch (ACTION_DOWN): 0:(941.0,1250.0)
+:Sending Touch (ACTION_UP): 0:(930.56195,1262.269)
+:Sending Touch (ACTION_DOWN): 0:(1311.0,843.0)
+:Sending Touch (ACTION_UP): 0:(1331.5981,840.4561)
+:Sending Touch (ACTION_DOWN): 0:(1113.0,1101.0)
+:Sending Touch (ACTION_UP): 0:(1107.6575,1115.2883)
+:Sending Touch (ACTION_DOWN): 0:(905.0,1389.0)
+:Sending Touch (ACTION_UP): 0:(923.6301,1353.0912)
+:Sending Touch (ACTION_DOWN): 0:(1372.0,381.0)
+:Sending Touch (ACTION_UP): 0:(1380.2427,372.55243)
+:Sending Touch (ACTION_DOWN): 0:(488.0,1606.0)
+:Sending Touch (ACTION_UP): 0:(491.7422,1610.6456)
+:Sending Touch (ACTION_DOWN): 0:(1082.0,345.0)
+:Sending Touch (ACTION_UP): 0:(1066.8301,360.21274)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(429.0,437.0)
+:Sending Touch (ACTION_UP): 0:(425.19943,437.28442)
+:Sending Touch (ACTION_DOWN): 0:(867.0,523.0)
+:Sending Touch (ACTION_UP): 0:(866.7058,532.99133)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+    //[calendar_time:2018-09-25 03:49:30.556  system_uptime:936974]
+    // Sending event #1100
+:Sending Touch (ACTION_DOWN): 0:(750.0,755.0)
+:Sending Touch (ACTION_UP): 0:(749.452,753.75037)
+:Sending Touch (ACTION_DOWN): 0:(1244.0,2353.0)
+:Sending Touch (ACTION_UP): 0:(1233.04,2356.1038)
+:Sending Touch (ACTION_DOWN): 0:(441.0,5.0)
+:Sending Touch (ACTION_UP): 0:(445.35062,6.472364)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.AudioplayerActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(158.0,1479.0)
+:Sending Touch (ACTION_UP): 0:(159.97522,1489.113)
+:Sending Touch (ACTION_DOWN): 0:(464.0,229.0)
+:Sending Touch (ACTION_UP): 0:(443.3634,229.71869)
+:Sending Touch (ACTION_DOWN): 0:(219.0,2267.0)
+:Sending Touch (ACTION_UP): 0:(228.38725,2283.332)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(896.0,1716.0)
+:Sending Touch (ACTION_UP): 0:(1003.47437,1792.0117)
+:Sending Touch (ACTION_DOWN): 0:(964.0,601.0)
+:Sending Touch (ACTION_UP): 0:(1064.2212,518.32635)
+    //[calendar_time:2018-09-25 03:49:33.347  system_uptime:939762]
+    // Sending event #1200
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(276.0,592.0)
+:Sending Touch (ACTION_UP): 0:(230.31429,704.75366)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    // activityResuming(de.danoeh.antennapod)
+    //[calendar_time:2018-09-25 03:49:38.805  system_uptime:945221]
+    // Sending event #1300
+    //[calendar_time:2018-09-25 03:49:38.813  system_uptime:945226]
+    // Sending event #1300
+:Sending Touch (ACTION_DOWN): 0:(806.0,18.0)
+:Sending Touch (ACTION_UP): 0:(803.3983,22.065554)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1319.0,1120.0)
+:Sending Touch (ACTION_UP): 0:(1328.5952,1251.7229)
+:Sending Touch (ACTION_DOWN): 0:(1234.0,998.0)
+:Sending Touch (ACTION_UP): 0:(1234.9657,1000.1748)
+:Sending Touch (ACTION_DOWN): 0:(282.0,938.0)
+:Sending Touch (ACTION_UP): 0:(282.2646,948.01245)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1288.0,2317.0)
+:Sending Touch (ACTION_UP): 0:(1266.8035,2243.1372)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    // activityResuming(de.danoeh.antennapod)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.calendar/com.android.calendar.AllInOneActivity } in package com.google.android.calendar
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.AudioplayerActivity } in package de.danoeh.antennapod
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(631.0,283.0)
+:Sending Touch (ACTION_UP): 0:(636.0765,275.67587)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+    //[calendar_time:2018-09-25 03:49:41.775  system_uptime:948188]
+    // Sending event #1400
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1102.0,1958.0)
+:Sending Touch (ACTION_UP): 0:(1041.025,1882.4164)
+:Sending Touch (ACTION_DOWN): 0:(771.0,421.0)
+:Sending Touch (ACTION_UP): 0:(762.0281,430.33325)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(211.0,585.0)
+:Sending Touch (ACTION_UP): 0:(196.60577,584.09076)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(646.0,1390.0)
+:Sending Touch (ACTION_UP): 0:(644.66284,1395.4326)
+:Sending Touch (ACTION_DOWN): 0:(1373.0,2272.0)
+:Sending Touch (ACTION_UP): 0:(1347.5703,2231.8354)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    // activityResuming(de.danoeh.antennapod)
+:Sending Touch (ACTION_DOWN): 0:(905.0,1401.0)
+:Sending Touch (ACTION_UP): 0:(907.2147,1397.8374)
+:Sending Touch (ACTION_DOWN): 0:(338.0,866.0)
+:Sending Touch (ACTION_UP): 0:(344.06827,893.1096)
+    // activityResuming(de.danoeh.antennapod)
+:Sending Touch (ACTION_DOWN): 0:(567.0,1095.0)
+:Sending Touch (ACTION_UP): 0:(567.1215,1096.9991)
+:Sending Touch (ACTION_DOWN): 0:(1347.0,1949.0)
+:Sending Touch (ACTION_UP): 0:(1251.4406,1897.5999)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+    //[calendar_time:2018-09-25 03:49:44.296  system_uptime:950709]
+    // Sending event #1500
+:Sending Touch (ACTION_DOWN): 0:(67.0,383.0)
+:Sending Touch (ACTION_UP): 0:(69.56183,370.30655)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    // activityResuming(de.danoeh.antennapod)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(276.0,1720.0)
+:Sending Touch (ACTION_UP): 0:(280.427,1706.5215)
+:Sending Touch (ACTION_DOWN): 0:(1193.0,1895.0)
+:Sending Touch (ACTION_UP): 0:(1195.9172,1872.7681)
+:Sending Touch (ACTION_DOWN): 0:(1196.0,1025.0)
+:Sending Touch (ACTION_UP): 0:(1191.0284,1035.852)
+:Sending Touch (ACTION_DOWN): 0:(1019.0,200.0)
+:Sending Touch (ACTION_UP): 0:(1019.4101,204.377)
+:Sending Touch (ACTION_DOWN): 0:(1140.0,2387.0)
+:Sending Touch (ACTION_UP): 0:(1134.7568,2308.2664)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.AudioplayerActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(1082.0,2051.0)
+:Sending Touch (ACTION_UP): 0:(1089.6022,2116.1025)
+:Sending Touch (ACTION_DOWN): 0:(860.0,1106.0)
+:Sending Touch (ACTION_UP): 0:(860.7634,1115.749)
+:Sending Touch (ACTION_DOWN): 0:(173.0,2293.0)
+:Sending Touch (ACTION_UP): 0:(173.3653,2292.1792)
+    //[calendar_time:2018-09-25 03:49:47.929  system_uptime:954343]
+    // Sending event #1600
+    //[calendar_time:2018-09-25 03:49:47.931  system_uptime:954345]
+    // Sending event #1600
+:Sending Touch (ACTION_DOWN): 0:(490.0,964.0)
+:Sending Touch (ACTION_UP): 0:(563.2722,1032.4763)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(830.0,93.0)
+:Sending Touch (ACTION_UP): 0:(872.8205,98.8577)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1155.0,327.0)
+:Sending Touch (ACTION_UP): 0:(1079.8622,416.68155)
+:Sending Touch (ACTION_DOWN): 0:(513.0,492.0)
+:Sending Touch (ACTION_UP): 0:(508.65726,495.80643)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(241.0,700.0)
+:Sending Touch (ACTION_UP): 0:(240.88838,699.50287)
+:Sending Touch (ACTION_DOWN): 0:(1242.0,1853.0)
+:Sending Touch (ACTION_UP): 0:(1247.7458,1880.3806)
+    //[calendar_time:2018-09-25 03:49:50.815  system_uptime:957228]
+    // Sending event #1700
+    //[calendar_time:2018-09-25 03:49:50.815  system_uptime:957228]
+    // Sending event #1700
+:Sending Touch (ACTION_DOWN): 0:(931.0,2388.0)
+:Sending Touch (ACTION_UP): 0:(914.5103,2392.0)
+:Sending Touch (ACTION_DOWN): 0:(1311.0,559.0)
+:Sending Touch (ACTION_UP): 0:(1300.9117,557.4052)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    // activityResuming(de.danoeh.antennapod)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(1183.0,1110.0)
+:Sending Touch (ACTION_UP): 0:(1161.9899,1102.0927)
+:Sending Touch (ACTION_DOWN): 0:(547.0,866.0)
+:Sending Touch (ACTION_UP): 0:(554.57275,864.7129)
+:Sending Touch (ACTION_DOWN): 0:(98.0,1945.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://twitter.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_UP): 0:(172.1313,1976.7434)
+:Sending Touch (ACTION_DOWN): 0:(1253.0,788.0)
+:Sending Touch (ACTION_UP): 0:(1252.1422,783.73535)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(680.0,665.0)
+:Sending Touch (ACTION_UP): 0:(673.0467,660.39557)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(897.0,2347.0)
+:Sending Touch (ACTION_UP): 0:(872.05927,2346.9187)
+:Sending Touch (ACTION_DOWN): 0:(1394.0,2012.0)
+:Sending Touch (ACTION_UP): 0:(1392.3467,2008.3086)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://lullabot.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(1315.0,2213.0)
+:Sending Touch (ACTION_UP): 0:(1320.7571,2215.4858)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://lullabot.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://twitter.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+    //[calendar_time:2018-09-25 03:49:53.688  system_uptime:960101]
+    // Sending event #1800
+:Sending Touch (ACTION_DOWN): 0:(682.0,247.0)
+:Sending Touch (ACTION_UP): 0:(667.61597,231.48665)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(132.0,233.0)
+:Sending Touch (ACTION_UP): 0:(123.27626,233.80862)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1102.0,2083.0)
+:Sending Touch (ACTION_UP): 0:(1062.7942,2028.3496)
+:Sending Touch (ACTION_DOWN): 0:(371.0,670.0)
+:Sending Touch (ACTION_UP): 0:(367.06146,670.6917)
+:Sending Touch (ACTION_DOWN): 0:(591.0,572.0)
+:Sending Touch (ACTION_UP): 0:(599.3798,571.9134)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    // activityResuming(de.danoeh.antennapod)
+:Sending Touch (ACTION_DOWN): 0:(392.0,1695.0)
+:Sending Touch (ACTION_UP): 0:(385.20953,1688.498)
+:Sending Touch (ACTION_DOWN): 0:(406.0,1357.0)
+:Sending Touch (ACTION_UP): 0:(380.6,1385.3562)
+:Sending Touch (ACTION_DOWN): 0:(1202.0,106.0)
+:Sending Touch (ACTION_UP): 0:(1219.0276,124.24715)
+:Sending Touch (ACTION_DOWN): 0:(1013.0,463.0)
+:Sending Touch (ACTION_UP): 0:(1018.1063,473.03656)
+:Sending Touch (ACTION_DOWN): 0:(825.0,1728.0)
+:Sending Touch (ACTION_UP): 0:(880.29755,1782.4626)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.gm/.ConversationListActivityGmail } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(630.0,1203.0)
+:Sending Touch (ACTION_UP): 0:(603.7082,1255.4796)
+    //[calendar_time:2018-09-25 03:49:56.838  system_uptime:963252]
+    // Sending event #1900
+    //[calendar_time:2018-09-25 03:49:56.840  system_uptime:963254]
+    // Sending event #1900
+:Sending Touch (ACTION_DOWN): 0:(1006.0,1789.0)
+:Sending Touch (ACTION_UP): 0:(1020.9207,1804.5049)
+:Sending Touch (ACTION_DOWN): 0:(1024.0,721.0)
+:Sending Touch (ACTION_UP): 0:(1038.2618,711.41583)
+:Sending Touch (ACTION_DOWN): 0:(1198.0,1423.0)
+:Sending Touch (ACTION_UP): 0:(1187.8005,1421.5151)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1274.0,741.0)
+:Sending Touch (ACTION_UP): 0:(1275.0281,739.08594)
+:Sending Touch (ACTION_DOWN): 0:(157.0,1572.0)
+:Sending Touch (ACTION_UP): 0:(167.62523,1596.345)
+:Sending Touch (ACTION_DOWN): 0:(269.0,1277.0)
+:Sending Touch (ACTION_UP): 0:(286.85718,1274.8962)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1066.0,1846.0)
+:Sending Touch (ACTION_UP): 0:(1102.7472,1898.0123)
+:Sending Touch (ACTION_DOWN): 0:(170.0,1420.0)
+    //[calendar_time:2018-09-25 03:49:59.053  system_uptime:965467]
+    // Sending event #2000
+:Sending Touch (ACTION_UP): 0:(156.95253,1481.2898)
+:Sending Touch (ACTION_DOWN): 0:(212.0,1678.0)
+:Sending Touch (ACTION_UP): 0:(212.35612,1679.9207)
+:Sending Touch (ACTION_DOWN): 0:(719.0,1516.0)
+:Sending Touch (ACTION_UP): 0:(717.7074,1507.5812)
+:Sending Touch (ACTION_DOWN): 0:(312.0,1286.0)
+:Sending Touch (ACTION_UP): 0:(316.5782,1240.2898)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(149.0,1412.0)
+:Sending Touch (ACTION_UP): 0:(159.094,1410.9901)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.dialer/.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(1245.0,2127.0)
+:Sending Touch (ACTION_UP): 0:(1215.9886,2229.1938)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(467.0,215.0)
+:Sending Touch (ACTION_UP): 0:(471.34586,206.48569)
+    //[calendar_time:2018-09-25 03:50:02.526  system_uptime:968939]
+    // Sending event #2100
+:Sending Touch (ACTION_DOWN): 0:(829.0,1882.0)
+:Sending Touch (ACTION_UP): 0:(830.83795,1899.6101)
+:Sending Touch (ACTION_DOWN): 0:(719.0,1785.0)
+:Sending Touch (ACTION_UP): 0:(721.5185,1783.2216)
+:Sending Flip keyboardOpen=true
+    // Rejecting start of Intent { act=android.speech.action.WEB_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(893.0,2263.0)
+:Sending Touch (ACTION_UP): 0:(885.3011,2275.782)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+    // Rejecting start of Intent { act=com.android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    // activityResuming(de.danoeh.antennapod)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    // activityResuming(de.danoeh.antennapod)
+:Sending Touch (ACTION_DOWN): 0:(993.0,1052.0)
+:Sending Touch (ACTION_UP): 0:(992.29297,1066.6118)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1426.0,1940.0)
+:Sending Touch (ACTION_UP): 0:(1424.6708,1942.0927)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1139.0,1106.0)
+:Sending Touch (ACTION_UP): 0:(1148.4008,1102.715)
+:Sending Touch (ACTION_DOWN): 0:(1049.0,782.0)
+:Sending Touch (ACTION_UP): 0:(1042.6774,795.80786)
+:Sending Touch (ACTION_DOWN): 0:(247.0,1608.0)
+:Sending Touch (ACTION_UP): 0:(248.11078,1646.9491)
+    //[calendar_time:2018-09-25 03:50:05.969  system_uptime:972382]
+    // Sending event #2200
+    //[calendar_time:2018-09-25 03:50:05.971  system_uptime:972385]
+    // Sending event #2200
+:Sending Touch (ACTION_DOWN): 0:(156.0,86.0)
+:Sending Touch (ACTION_UP): 0:(155.03677,87.08449)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(761.0,1711.0)
+:Sending Touch (ACTION_UP): 0:(743.69305,1712.6342)
+:Sending Touch (ACTION_DOWN): 0:(411.0,2362.0)
+:Sending Touch (ACTION_UP): 0:(351.27606,2388.026)
+:Sending Touch (ACTION_DOWN): 0:(948.0,1370.0)
+:Sending Touch (ACTION_UP): 0:(948.2872,1363.195)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.AudioplayerActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(1432.0,555.0)
+:Sending Touch (ACTION_UP): 0:(1440.0,598.2448)
+    // Rejecting start of Intent { cmp=com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.opa.OpaActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(156.0,51.0)
+:Sending Touch (ACTION_UP): 0:(231.65657,0.0)
+    //[calendar_time:2018-09-25 03:50:07.446  system_uptime:973860]
+    // Sending event #2300
+    //[calendar_time:2018-09-25 03:50:07.448  system_uptime:973861]
+    // Sending event #2300
+:Sending Touch (ACTION_DOWN): 0:(510.0,674.0)
+:Sending Touch (ACTION_UP): 0:(502.26407,674.847)
+:Sending Touch (ACTION_DOWN): 0:(1143.0,2068.0)
+:Sending Touch (ACTION_UP): 0:(1137.9738,2068.3267)
+:Sending Touch (ACTION_DOWN): 0:(752.0,879.0)
+:Sending Touch (ACTION_UP): 0:(751.9277,879.45557)
+:Sending Touch (ACTION_DOWN): 0:(1069.0,1062.0)
+:Sending Touch (ACTION_UP): 0:(1072.7812,1053.8555)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(512.0,1491.0)
+:Sending Touch (ACTION_UP): 0:(486.46103,1518.2756)
+:Sending Touch (ACTION_DOWN): 0:(1213.0,1340.0)
+:Sending Touch (ACTION_UP): 0:(1209.7472,1341.2988)
+:Sending Touch (ACTION_DOWN): 0:(363.0,613.0)
+:Sending Touch (ACTION_UP): 0:(344.43976,602.1793)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(709.0,1442.0)
+:Sending Touch (ACTION_UP): 0:(707.4124,1443.4644)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    //[calendar_time:2018-09-25 03:50:09.536  system_uptime:975955]
+    // Sending event #2400
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1087.0,268.0)
+:Sending Touch (ACTION_UP): 0:(1081.7908,265.19125)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://twit.tv/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(1000.0,1545.0)
+:Sending Touch (ACTION_UP): 0:(999.8656,1554.6224)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(107.0,908.0)
+:Sending Touch (ACTION_UP): 0:(97.851326,909.84863)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1439.0,1904.0)
+    //[calendar_time:2018-09-25 03:50:11.678  system_uptime:978091]
+    // Sending event #2500
+:Sending Touch (ACTION_UP): 0:(1440.0,1946.1436)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(587.0,743.0)
+:Sending Touch (ACTION_UP): 0:(619.09674,673.7938)
+:Sending Touch (ACTION_DOWN): 0:(786.0,1680.0)
+:Sending Touch (ACTION_UP): 0:(795.9177,1675.4556)
+:Sending Touch (ACTION_DOWN): 0:(807.0,1238.0)
+:Sending Touch (ACTION_UP): 0:(806.3555,1237.0455)
+:Sending Touch (ACTION_DOWN): 0:(61.0,2255.0)
+:Sending Touch (ACTION_UP): 0:(50.021385,2242.8555)
+:Sending Touch (ACTION_DOWN): 0:(737.0,422.0)
+:Sending Touch (ACTION_UP): 0:(760.91833,395.99814)
+:Sending Touch (ACTION_DOWN): 0:(1419.0,892.0)
+:Sending Touch (ACTION_UP): 0:(1424.9349,900.785)
+:Sending Touch (ACTION_DOWN): 0:(352.0,1134.0)
+:Sending Touch (ACTION_UP): 0:(347.71533,1134.5089)
+:Sending Touch (ACTION_DOWN): 0:(357.0,1817.0)
+:Sending Touch (ACTION_UP): 0:(355.0931,1822.1041)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(742.0,1481.0)
+:Sending Touch (ACTION_UP): 0:(679.09143,1368.1636)
+:Sending Touch (ACTION_DOWN): 0:(1275.0,161.0)
+:Sending Touch (ACTION_UP): 0:(1262.8822,161.12978)
+:Sending Touch (ACTION_DOWN): 0:(1367.0,384.0)
+:Sending Touch (ACTION_UP): 0:(1365.0388,401.13647)
+:Sending Touch (ACTION_DOWN): 0:(1039.0,1764.0)
+:Sending Touch (ACTION_UP): 0:(1060.5162,1730.8281)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://twit.tv/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+    //[calendar_time:2018-09-25 03:50:13.072  system_uptime:979486]
+    // Sending event #2600
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://twitter.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://twitter.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(917.0,1539.0)
+:Sending Touch (ACTION_UP): 0:(911.56305,1554.2069)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://twitter.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(757.0,324.0)
+:Sending Touch (ACTION_UP): 0:(725.3672,366.77017)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+    // Rejecting start of Intent { cmp=com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.opa.OpaActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(519.0,2050.0)
+:Sending Touch (ACTION_UP): 0:(526.50525,2034.8643)
+:Sending Touch (ACTION_DOWN): 0:(925.0,2225.0)
+:Sending Touch (ACTION_UP): 0:(930.82666,2225.2559)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+    //[calendar_time:2018-09-25 03:50:13.898  system_uptime:980312]
+    // Sending event #2700
+:Sending Touch (ACTION_DOWN): 0:(265.0,1539.0)
+:Sending Touch (ACTION_UP): 0:(265.7784,1541.9879)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://twitter.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(933.0,1885.0)
+:Sending Touch (ACTION_UP): 0:(947.0181,1879.1228)
+:Sending Touch (ACTION_DOWN): 0:(1432.0,1147.0)
+:Sending Touch (ACTION_UP): 0:(1421.7341,1166.9641)
+:Sending Touch (ACTION_DOWN): 0:(1324.0,1707.0)
+:Sending Touch (ACTION_UP): 0:(1322.1849,1712.1534)
+:Sending Touch (ACTION_DOWN): 0:(258.0,2337.0)
+:Sending Touch (ACTION_UP): 0:(252.95044,2337.1846)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1023.0,2383.0)
+:Sending Touch (ACTION_UP): 0:(1034.1311,2371.8147)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://bit.ly/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(507.0,1103.0)
+:Sending Touch (ACTION_UP): 0:(500.22076,1110.1539)
+:Sending Touch (ACTION_DOWN): 0:(201.0,1603.0)
+:Sending Touch (ACTION_UP): 0:(205.72337,1603.2018)
+:Sending Touch (ACTION_DOWN): 0:(1069.0,706.0)
+:Sending Touch (ACTION_UP): 0:(1070.0837,709.4385)
+:Sending Touch (ACTION_DOWN): 0:(1071.0,194.0)
+:Sending Touch (ACTION_UP): 0:(1070.2745,194.82219)
+    //[calendar_time:2018-09-25 03:50:15.173  system_uptime:981586]
+    // Sending event #2800
+:Sending Touch (ACTION_DOWN): 0:(131.0,479.0)
+:Sending Touch (ACTION_UP): 0:(143.15208,483.9973)
+:Sending Touch (ACTION_DOWN): 0:(51.0,591.0)
+:Sending Touch (ACTION_UP): 0:(43.0571,592.6325)
+:Sending Touch (ACTION_DOWN): 0:(1034.0,191.0)
+:Sending Touch (ACTION_UP): 0:(1036.2433,188.03581)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https://twit.tv/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(825.0,1109.0)
+:Sending Touch (ACTION_UP): 0:(839.1176,1089.2084)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(452.0,605.0)
+:Sending Touch (ACTION_UP): 0:(467.64783,614.53064)
+:Sending Touch (ACTION_DOWN): 0:(1339.0,1789.0)
+:Sending Touch (ACTION_UP): 0:(1317.0432,1820.8823)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Flip keyboardOpen=true
+    //[calendar_time:2018-09-25 03:50:17.160  system_uptime:983573]
+    // Sending event #2900
+    //[calendar_time:2018-09-25 03:50:17.161  system_uptime:983574]
+    // Sending event #2900
+:Sending Touch (ACTION_DOWN): 0:(735.0,1911.0)
+:Sending Touch (ACTION_UP): 0:(734.40393,1910.0157)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    // activityResuming(de.danoeh.antennapod)
+:Sending Touch (ACTION_DOWN): 0:(907.0,911.0)
+:Sending Touch (ACTION_UP): 0:(887.3303,883.2468)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://twit.tv/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(159.0,848.0)
+:Sending Touch (ACTION_UP): 0:(165.11462,864.5013)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1156.0,11.0)
+:Sending Touch (ACTION_UP): 0:(1157.5128,7.5928717)
+:Sending Touch (ACTION_DOWN): 0:(386.0,2210.0)
+:Sending Touch (ACTION_UP): 0:(382.34958,2212.755)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.AudioplayerActivity } in package de.danoeh.antennapod
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+    //[calendar_time:2018-09-25 03:50:19.610  system_uptime:986023]
+    // Sending event #3000
+:Sending Touch (ACTION_DOWN): 0:(571.0,289.0)
+:Sending Touch (ACTION_UP): 0:(556.1796,300.4296)
+:Sending Touch (ACTION_DOWN): 0:(57.0,1575.0)
+:Sending Touch (ACTION_UP): 0:(55.733437,1580.1117)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(57.0,1350.0)
+:Sending Touch (ACTION_UP): 0:(58.83062,1353.3811)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(1065.0,750.0)
+:Sending Touch (ACTION_UP): 0:(1023.199,703.69824)
+:Sending Touch (ACTION_DOWN): 0:(728.0,456.0)
+:Sending Touch (ACTION_UP): 0:(683.28894,526.733)
+:Sending Touch (ACTION_DOWN): 0:(359.0,1374.0)
+:Sending Touch (ACTION_UP): 0:(360.53232,1373.9878)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    // activityResuming(de.danoeh.antennapod)
+:Sending Touch (ACTION_DOWN): 0:(1195.0,683.0)
+:Sending Touch (ACTION_UP): 0:(1151.7584,628.27)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+    //[calendar_time:2018-09-25 03:50:21.758  system_uptime:988172]
+    // Sending event #3100
+:Sending Touch (ACTION_DOWN): 0:(1034.0,827.0)
+:Sending Touch (ACTION_UP): 0:(1020.15753,826.1046)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(1273.0,824.0)
+:Sending Touch (ACTION_UP): 0:(1281.9388,821.69226)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    // activityResuming(de.danoeh.antennapod)
+:Sending Touch (ACTION_DOWN): 0:(112.0,1891.0)
+:Sending Touch (ACTION_UP): 0:(111.7601,1885.5457)
+:Sending Touch (ACTION_DOWN): 0:(509.0,1314.0)
+:Sending Touch (ACTION_UP): 0:(484.2513,1311.806)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://bit.ly/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(411.0,1551.0)
+:Sending Touch (ACTION_UP): 0:(409.53253,1571.553)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(625.0,1819.0)
+:Sending Touch (ACTION_UP): 0:(620.9027,1832.204)
+:Sending Touch (ACTION_DOWN): 0:(660.0,1710.0)
+:Sending Touch (ACTION_UP): 0:(655.98737,1710.275)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://twitter.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    // activityResuming(de.danoeh.antennapod)
+:Sending Touch (ACTION_DOWN): 0:(380.0,1839.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://twit.tv/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_UP): 0:(370.36765,1825.1672)
+:Sending Touch (ACTION_DOWN): 0:(808.0,1210.0)
+:Sending Touch (ACTION_UP): 0:(801.58386,1207.2181)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://twit.tv/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+    //[calendar_time:2018-09-25 03:50:24.492  system_uptime:990906]
+    // Sending event #3200
+:Sending Touch (ACTION_DOWN): 0:(671.0,297.0)
+:Sending Touch (ACTION_UP): 0:(654.44635,296.4776)
+:Sending Touch (ACTION_DOWN): 0:(589.0,1225.0)
+:Sending Touch (ACTION_UP): 0:(579.2233,1225.0228)
+:Sending Touch (ACTION_DOWN): 0:(821.0,512.0)
+:Sending Touch (ACTION_UP): 0:(818.69214,501.22784)
+:Sending Touch (ACTION_DOWN): 0:(1210.0,2172.0)
+:Sending Touch (ACTION_UP): 0:(1214.8298,2181.8145)
+:Sending Touch (ACTION_DOWN): 0:(1435.0,2014.0)
+:Sending Touch (ACTION_UP): 0:(1424.5128,2021.8734)
+:Sending Touch (ACTION_DOWN): 0:(1322.0,1662.0)
+:Sending Touch (ACTION_UP): 0:(1289.4491,1628.4843)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Flip keyboardOpen=false
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://twit.tv/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://bit.ly/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(243.0,1083.0)
+:Sending Touch (ACTION_UP): 0:(157.90562,979.8056)
+:Sending Touch (ACTION_DOWN): 0:(1235.0,179.0)
+:Sending Touch (ACTION_UP): 0:(1248.6061,182.5078)
+    //[calendar_time:2018-09-25 03:50:26.212  system_uptime:992625]
+    // Sending event #3300
+:Sending Touch (ACTION_DOWN): 0:(194.0,2224.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://twit.tv/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_UP): 0:(200.66214,2223.636)
+:Sending Touch (ACTION_DOWN): 0:(1422.0,273.0)
+:Sending Touch (ACTION_UP): 0:(1428.1473,273.53345)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.AudioplayerActivity } in package de.danoeh.antennapod
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(443.0,1778.0)
+:Sending Touch (ACTION_UP): 0:(446.1209,1778.7891)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(715.0,93.0)
+:Sending Touch (ACTION_UP): 0:(715.69543,93.74563)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(48.0,1619.0)
+:Sending Touch (ACTION_UP): 0:(44.346413,1606.5929)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://try.digitalocean.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    // activityResuming(de.danoeh.antennapod)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://try.digitalocean.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(312.0,1770.0)
+:Sending Touch (ACTION_UP): 0:(284.5977,1778.336)
+:Sending Touch (ACTION_DOWN): 0:(315.0,2349.0)
+:Sending Touch (ACTION_UP): 0:(321.408,2363.1199)
+    //[calendar_time:2018-09-25 03:50:30.045  system_uptime:996458]
+    // Sending event #3400
+    //[calendar_time:2018-09-25 03:50:30.045  system_uptime:996458]
+    // Sending event #3400
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.AudioplayerActivity } in package de.danoeh.antennapod
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://twit.tv/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(100.0,1988.0)
+:Sending Touch (ACTION_UP): 0:(26.059303,1857.0037)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(105.0,1408.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(26.964462,1366.3312)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    // activityResuming(de.danoeh.antennapod)
+:Sending Touch (ACTION_DOWN): 0:(247.0,2366.0)
+:Sending Touch (ACTION_UP): 0:(279.32837,2381.8032)
+:Sending Touch (ACTION_DOWN): 0:(1215.0,184.0)
+:Sending Touch (ACTION_UP): 0:(1236.2938,277.97217)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.AudioplayerActivity } in package de.danoeh.antennapod
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+    //[calendar_time:2018-09-25 03:50:33.218  system_uptime:999632]
+    // Sending event #3500
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(388.0,1857.0)
+:Sending Touch (ACTION_UP): 0:(384.54825,1863.7103)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(761.0,2045.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_UP): 0:(797.40717,2024.5497)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(567.0,1580.0)
+:Sending Touch (ACTION_UP): 0:(518.2643,1539.2627)
+:Sending Touch (ACTION_DOWN): 0:(1249.0,1540.0)
+:Sending Touch (ACTION_UP): 0:(1290.3344,1601.2615)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+    //[calendar_time:2018-09-25 03:50:34.910  system_uptime:1001324]
+    // Sending event #3600
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(349.0,2019.0)
+:Sending Touch (ACTION_UP): 0:(354.76608,2029.4822)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://try.digitalocean.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(163.0,37.0)
+:Sending Touch (ACTION_UP): 0:(144.92322,127.71486)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://try.digitalocean.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(1232.0,547.0)
+:Sending Touch (ACTION_UP): 0:(1226.4836,562.08435)
+:Sending Touch (ACTION_DOWN): 0:(799.0,2226.0)
+:Sending Touch (ACTION_UP): 0:(756.25946,2189.2234)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(149.0,474.0)
+:Sending Touch (ACTION_UP): 0:(143.05359,477.63657)
+:Sending Touch (ACTION_DOWN): 0:(633.0,388.0)
+:Sending Touch (ACTION_UP): 0:(632.74097,388.4017)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(656.0,1808.0)
+:Sending Touch (ACTION_UP): 0:(657.91516,1742.4583)
+:Sending Touch (ACTION_DOWN): 0:(950.0,97.0)
+    //[calendar_time:2018-09-25 03:50:36.413  system_uptime:1002826]
+    // Sending event #3700
+:Sending Touch (ACTION_UP): 0:(950.4827,98.165955)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    // activityResuming(de.danoeh.antennapod)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(662.0,1456.0)
+:Sending Touch (ACTION_UP): 0:(675.4669,1455.14)
+:Sending Touch (ACTION_DOWN): 0:(403.0,673.0)
+:Sending Touch (ACTION_UP): 0:(395.006,678.92896)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1137.0,650.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.AudioplayerActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_UP): 0:(1092.0115,591.72437)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(910.0,2044.0)
+:Sending Touch (ACTION_UP): 0:(904.09265,2046.9204)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+    //[calendar_time:2018-09-25 03:50:37.867  system_uptime:1004280]
+    // Sending event #3800
+:Sending Touch (ACTION_DOWN): 0:(1172.0,2033.0)
+:Sending Touch (ACTION_UP): 0:(1155.951,2027.1505)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1100.0,2298.0)
+:Sending Touch (ACTION_UP): 0:(1054.9159,2333.3608)
+:Sending Touch (ACTION_DOWN): 0:(1152.0,401.0)
+:Sending Touch (ACTION_UP): 0:(1152.935,400.85965)
+:Sending Touch (ACTION_DOWN): 0:(464.0,237.0)
+:Sending Touch (ACTION_UP): 0:(447.56995,247.28242)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(457.0,1458.0)
+:Sending Touch (ACTION_UP): 0:(502.69815,1462.5669)
+:Sending Touch (ACTION_DOWN): 0:(808.0,255.0)
+:Sending Touch (ACTION_UP): 0:(817.75226,277.24362)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+    //[calendar_time:2018-09-25 03:50:39.785  system_uptime:1006199]
+    // Sending event #3900
+:Sending Touch (ACTION_DOWN): 0:(225.0,152.0)
+:Sending Touch (ACTION_UP): 0:(239.90623,134.03154)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1144.0,1114.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(1193.7421,1166.7228)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(177.0,817.0)
+:Sending Touch (ACTION_UP): 0:(108.12158,807.2614)
+:Sending Touch (ACTION_DOWN): 0:(585.0,1879.0)
+:Sending Touch (ACTION_UP): 0:(564.73505,1881.9824)
+:Sending Touch (ACTION_DOWN): 0:(520.0,1333.0)
+:Sending Touch (ACTION_UP): 0:(533.32086,1335.7579)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    //[calendar_time:2018-09-25 03:50:41.429  system_uptime:1007842]
+    // Sending event #4000
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(1288.0,743.0)
+:Sending Touch (ACTION_UP): 0:(1304.6556,732.536)
+:Sending Touch (ACTION_DOWN): 0:(35.0,361.0)
+:Sending Touch (ACTION_UP): 0:(40.135162,355.27957)
+:Sending Touch (ACTION_DOWN): 0:(1313.0,630.0)
+:Sending Touch (ACTION_UP): 0:(1324.079,631.0935)
+:Sending Touch (ACTION_DOWN): 0:(595.0,2311.0)
+:Sending Touch (ACTION_UP): 0:(598.9375,2306.1682)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    // activityResuming(de.danoeh.antennapod)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.AudioplayerActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(520.0,1989.0)
+:Sending Touch (ACTION_UP): 0:(518.8285,1988.7635)
+:Sending Touch (ACTION_DOWN): 0:(961.0,1838.0)
+:Sending Touch (ACTION_UP): 0:(948.1004,1885.0564)
+:Sending Touch (ACTION_DOWN): 0:(505.0,2181.0)
+:Sending Touch (ACTION_UP): 0:(503.63565,2186.138)
+:Sending Touch (ACTION_DOWN): 0:(441.0,691.0)
+:Sending Touch (ACTION_UP): 0:(447.16864,694.4554)
+:Sending Touch (ACTION_DOWN): 0:(1263.0,1171.0)
+:Sending Touch (ACTION_UP): 0:(1228.2253,1182.3573)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+    //[calendar_time:2018-09-25 03:50:43.180  system_uptime:1009593]
+    // Sending event #4100
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.danoeh.antennapod/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.danoeh.antennapod/.activity.SplashActivity } in package de.danoeh.antennapod
+:Sending Touch (ACTION_DOWN): 0:(1182.0,1154.0)
+:Sending Touch (ACTION_UP): 0:(1132.7605,1108.7063)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    // activityResuming(de.danoeh.antennapod)
+:Sending Touch (ACTION_DOWN): 0:(364.0,763.0)
+:Sending Touch (ACTION_UP): 0:(398.1438,819.54)
+:Sending Touch (ACTION_DOWN): 0:(68.0,2125.0)
+:Sending Touch (ACTION_UP): 0:(57.86608,2131.9792)
+:Sending Touch (ACTION_DOWN): 0:(1309.0,1745.0)
+:Sending Touch (ACTION_UP): 0:(1276.4249,1791.7335)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(374.0,1698.0)
+:Sending Touch (ACTION_UP): 0:(343.50882,1663.3699)
+:Sending Touch (ACTION_DOWN): 0:(905.0,994.0)
+:Sending Touch (ACTION_UP): 0:(867.6679,1000.57855)
+:Sending Touch (ACTION_DOWN): 0:(899.0,889.0)
+:Sending Touch (ACTION_UP): 0:(896.5077,878.94684)
+    //[calendar_time:2018-09-25 03:50:45.015  system_uptime:1011429]
+    // Sending event #4200
+    //[calendar_time:2018-09-25 03:50:45.017  system_uptime:1011431]
+    // Sending event #4200
+:Sending Touch (ACTION_DOWN): 0:(918.0,362.0)
+:Sending Touch (ACTION_UP): 0:(906.018,298.33966)
+:Sending Touch (ACTION_DOWN): 0:(1186.0,947.0)
+:Sending Touch (ACTION_UP): 0:(1179.4312,940.96674)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(889.0,516.0)
+:Sending Touch (ACTION_UP): 0:(898.70624,512.30646)
+:Sending Touch (ACTION_DOWN): 0:(427.0,1214.0)
+:Sending Touch (ACTION_UP): 0:(426.78714,1220.3058)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(957.0,2326.0)
+:Sending Touch (ACTION_UP): 0:(964.7474,2334.853)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.AudioplayerActivity } in package de.danoeh.antennapod
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(377.0,1965.0)
+:Sending Touch (ACTION_UP): 0:(385.31326,1969.0438)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(647.0,1515.0)
+:Sending Touch (ACTION_UP): 0:(652.06915,1462.4261)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.MainActivity } in package de.danoeh.antennapod
+    //[calendar_time:2018-09-25 03:50:47.787  system_uptime:1014200]
+    // Sending event #4300
+:Sending Touch (ACTION_DOWN): 0:(914.0,1241.0)
+:Sending Touch (ACTION_UP): 0:(912.0792,1237.402)
+:Sending Touch (ACTION_DOWN): 0:(573.0,167.0)
+:Sending Touch (ACTION_UP): 0:(591.7914,166.17831)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.chrome/com.google.android.apps.chrome.Main } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(1047.0,500.0)
+:Sending Touch (ACTION_UP): 0:(1046.4755,491.26575)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://wondery.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(1325.0,1571.0)
+:Sending Touch (ACTION_UP): 0:(1328.2229,1574.9386)
+:Sending Touch (ACTION_DOWN): 0:(1067.0,1054.0)
+:Sending Touch (ACTION_UP): 0:(1072.7594,1044.5916)
+:Sending Touch (ACTION_DOWN): 0:(648.0,1366.0)
+:Sending Touch (ACTION_UP): 0:(632.25635,1350.0065)
+:Sending Flip keyboardOpen=true
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://wondery.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(39.0,1235.0)
+:Sending Touch (ACTION_UP): 0:(55.4662,1233.4545)
+:Sending Touch (ACTION_DOWN): 0:(1324.0,558.0)
+:Sending Touch (ACTION_UP): 0:(1341.1179,549.1829)
+:Sending Touch (ACTION_DOWN): 0:(762.0,978.0)
+:Sending Touch (ACTION_UP): 0:(776.15643,973.9852)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+    //[calendar_time:2018-09-25 03:50:49.206  system_uptime:1015622]
+    // Sending event #4400
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://one.npr.org/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(750.0,1478.0)
+:Sending Touch (ACTION_UP): 0:(790.1085,1479.7225)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://one.npr.org/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(839.0,2134.0)
+:Sending Touch (ACTION_UP): 0:(867.58826,2173.5823)
+:Sending Touch (ACTION_DOWN): 0:(1264.0,552.0)
+:Sending Touch (ACTION_UP): 0:(1272.3622,531.1739)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://one.npr.org/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://one.npr.org/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(1039.0,1893.0)
+:Sending Touch (ACTION_UP): 0:(988.0462,2012.7479)
+:Sending Touch (ACTION_DOWN): 0:(192.0,613.0)
+:Sending Touch (ACTION_UP): 0:(181.68248,620.5215)
+:Sending Touch (ACTION_DOWN): 0:(419.0,822.0)
+:Sending Touch (ACTION_UP): 0:(415.57422,806.56287)
+:Sending Touch (ACTION_DOWN): 0:(715.0,1278.0)
+:Sending Touch (ACTION_UP): 0:(717.6923,1273.3043)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(146.0,290.0)
+:Sending Touch (ACTION_UP): 0:(160.67091,273.80905)
+:Sending Touch (ACTION_DOWN): 0:(156.0,2285.0)
+:Sending Touch (ACTION_UP): 0:(168.46048,2301.2822)
+    // Allowing start of Intent { cmp=de.danoeh.antennapod/.activity.AudioplayerActivity } in package de.danoeh.antennapod
+** Monkey aborted due to error.
+Events injected: 4494
+:Sending rotation degree=0, persist=false
+:Dropped: keys=2 pointers=11 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=100209ms (0ms mobile, 0ms wifi, 100209ms not connected)
