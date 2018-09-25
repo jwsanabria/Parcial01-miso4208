@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="prueba"
+    errors="0" failures="0" hostname="" id="" package="prueba" skipped="0"
+    tests="1" time="23.49" timestamp="Mon, 24 Sep 2018 03:43:47 GMT">
+  
+    <testcase name="Calificar a un profesor" classname="prueba" time="23.49" assertions="9">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

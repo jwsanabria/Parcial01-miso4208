@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="7">
+
+  <testsuite name="consultarProfesor"
+    errors="0" failures="0" hostname="" id="" package="consultarProfesor" skipped="0"
+    tests="7" time="62.57" timestamp="Tue, 25 Sep 2018 04:41:32 GMT">
+  
+    <testcase name="Consultar un profesor por maestria - aleatorio" classname="consultarProfesor" time="8.719" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Consultar un profesor por maestria - alfabetico" classname="consultarProfesor" time="8.705" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Consultar un profesor por pregrado - aleatorio" classname="consultarProfesor" time="8.960" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Consultar un profesor por pregrado - alfabetico" classname="consultarProfesor" time="8.629" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Consultar profesor por nombre y dirigirse a su página" classname="consultarProfesor" time="8.268" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Consultar profesor por materia y dirigirse a su página" classname="consultarProfesor" time="9.908" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Filtro por materia en la pagina de un profesor" classname="consultarProfesor" time="9.378" assertions="7">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

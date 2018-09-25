@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="2">
+
+  <testsuite name="buscarProfesor"
+    errors="0" failures="1" hostname="" id="" package="buscarProfesor" skipped="0"
+    tests="2" time="64.28" timestamp="Sun, 23 Sep 2018 23:31:08 GMT">
+  
+    <testcase name="Buscar profesor y dirigirse a su página" classname="buscarProfesor" time="8.674" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Filtro por materia en la pagina de un profesor" classname="buscarProfesor" time="55.60" assertions="1">  <failure message="Timed out while waiting for element &lt;div[class=&#34;Select-option is-focused&#34;]&gt; to be present for 50000 milliseconds.">    at Object.Filtro por materia en la pagina de un profesor (/home/miso4208/Desktop/Parcial01/E2E-Nightwatch/test/buscarProfesor.js:23:10)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
